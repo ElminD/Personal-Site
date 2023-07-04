@@ -1,0 +1,10 @@
+div {
+    margin: auto;
+    width: 60%;
+    position: relative;
+    top: 30%;
+    transform: translateY(-30%);
+    padding: 10px;
+    
+}
+
